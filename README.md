@@ -6,7 +6,7 @@ I'm a front-end development student at [Noroff](https://www.noroff.no/), passion
 
 ## 🚀 What I'm working on
 
-- 🌲 Co-founder of [Treoppdrag](https://www.treoppdrag.no/) a real-world platform connecting tree fellers with customers
+- 🌲 Co-founder of [Treoppdrag](https://www.treoppdrag.no/) a platform connecting tree fellers with customers
 - 🎓 Finishing my studies at Noroff, building projects with JavaScript, React, and REST APIs
 
 ## 🛠️ Tech I work with

@@ -1,7 +1,22 @@
-## Hi there 👋
+# Hi, I'm John-kristian G. Ruud 👋
 
-- 🔭 I’m currently working on a cool business project together with my mates, which have been in the works for a year. It will be posted here when done.
-- 📫 How to reach me: johnruud4@gmail.com
-- 🌱 I’m currently learning from noroff.
-- One of the creators of https://www.treoppdrag.no/
+I'm a front-end development student at [Noroff](https://www.noroff.no/), passionate about building clean, responsive websites and turning ideas into real products.
 
+---
+
+## 🚀 What I'm working on
+
+- 🌲 Co-founder of [Treoppdrag](https://www.treoppdrag.no/) — a real-world platform connecting tree fellers with customers
+- 🎓 Finishing my studies at Noroff, building projects with JavaScript, React, and REST APIs
+
+## 🛠️ Tech I work with
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+## 📫 Get in touch
+
+- ✉️ johnruud4@gmail.com
+- 🌐 [Portfolio]([https://endearing-custard-349086.netlify.app/](https://www.johnkristian-grindebakken-ruud.no/))

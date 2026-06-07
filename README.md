@@ -20,4 +20,4 @@ I'm a front-end development student at [Noroff](https://www.noroff.no/), passion
 ## 📫 Get in touch
 
 - ✉️ johnruud4@gmail.com
-- 🌐 [Portfolio](https://endearing-custard-349086.netlify.app/)
+- 🌐 [Portfolio](https://www.johnkristian-grindebakken-ruud.no/)
